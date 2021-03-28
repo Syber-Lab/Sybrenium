@@ -1,0 +1,210 @@
+@import url('main.css');
+
+html{
+  scroll-behavior: smooth;
+}
+
+.resize{
+  resize: both;
+}
+
+
+/* future works */
+
+
+
+.vertical-upright{
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+.vertical-upright2{
+  writing-mode: vertical-lr;
+  text-orientation: downright;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----- Classes ----- */
+.block {
+  padding: 0.75rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+/* Border classes */
+
+.border{
+  padding: 0.75rem;
+}
+
+.border-dotted {border: dotted 3px;}
+.border-dotted-xs {border: dotted 2px;}
+.border-dotted-sm {border: dotted 4.5px;}
+.border-dotted-lg {border: dotted 7px;}
+
+.border-dashed {border: dashed 3px;}
+.border-dashed-xs {border: dashed 2px;}
+.border-dashed-sm {border: dashed 4.5px;}
+.border-dashed-lg {border: dashed 7px;}
+
+.border-solid {border: solid 3px;}
+.border-solid-xs {border: solid 2px;}
+.border-solid-sm {border: solid 4.5px;}
+.border-solid-lg {border: solid 7px;}
+
+.border-double {border: double 3px;}
+.border-double-xs {border: double 2px;}
+.border-double-sm {border: double 4.5px;}
+.border-double-lg {border: double 7px;}
+
+.border-groove {border: groove 3px;}
+.border-groove-xs {border: groove 2px;}
+.border-groove-sm {border: groove 4.5px;}
+.border-groove-lg {border: groove 7px;}
+
+.border-ridge {border: ridge 3px;}
+.border-ridge-xs {border: ridge 2px;}
+.border-ridge-sm {border: ridge 4.5px;}
+.border-ridge-lg {border: ridge 7px;}
+
+.border-inset {border: inset 3px;}
+.border-inset-xs {border: inset 2px;}
+.border-inset-sm {border: inset 4.5px;}
+.border-inset-lg {border: inset 7px;}
+
+.border-outset {border: outset 3px;}
+.border-outset-xs {border: outset 2px;}
+.border-outset-sm {border: outset 4.5px;}
+.border-outset-lg {border: outset 7px;}
+
+.border-none { border: none;}
+
+.border-hidden { border: hidden;}
+
+/* .mix-border { border: dotted dashed solid double;} */
+.mix-border{border-style: dotted dashed solid double;}
+
+/* shot Line Breaks */
+.dotted-linebreak{
+	border: dotted 4px;
+	border-bottom: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.dashed-linebreak{
+	border: dashed 4px;
+	border-bottom: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.solid-linebreak{
+	border: solid 4px;
+	border-bottom: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.double-linebreak{
+	border: double 4px;
+	border-bottom: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.groove-linebreak{
+	border: groove 4px;
+	border-bottom: none;
+  border-right: none;
+  border-left: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.ridge-linebreak{
+	border: ridge 4px;
+	border-bottom: none;
+  border-right: none;
+  border-left: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.inset-linebreak{
+	border: inset 4px;
+	border-bottom: none;
+  border-right: none;
+  border-left: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+.outset-linebreak{
+	border: outset 4px;
+	border-bottom: none;
+  border-right: none;
+  border-left: none;
+ 	width: 4%;
+ 	margin: 50px auto;
+}
+
+/* Bold italic underline */
+
+.italic{
+  font-style: italic;
+}
+
+.bold{
+  font-weight: bolder;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.ruled {
+  text-decoration: underline overline;
+}
+
+.center-all{
+  align-items: center;
+  text-align: center;
+}
+
+
+
+/* Borders */
+
+
+/*
+.container-fld{
+	width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+*/
+/* ----- Id's ----- */
