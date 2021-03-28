@@ -1,17 +1,8 @@
-@import url('main.css');
-
-html{
-  scroll-behavior: smooth;
-}
-
 .resize{
   resize: both;
 }
 
-
 /* future works */
-
-
 
 .vertical-upright{
   writing-mode: vertical-rl;
@@ -23,26 +14,12 @@ html{
   text-orientation: downright;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ----- Classes ----- */
 .block {
   padding: 0.75rem;
   margin-right: auto;
   margin-left: auto;
 }
-
 
 /* Border classes */
 
