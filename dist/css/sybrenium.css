@@ -21,8 +21,8 @@
   margin-left: auto;
 }
 
-/* Border classes */
 
+/* Border classes */
 .border{
   padding: 0.75rem;
 }
@@ -106,8 +106,8 @@
 .groove-linebreak{
 	border: groove 4px;
 	border-bottom: none;
-  border-right: none;
-  border-left: none;
+  	border-right: none;
+  	border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -115,8 +115,8 @@
 .ridge-linebreak{
 	border: ridge 4px;
 	border-bottom: none;
-  border-right: none;
-  border-left: none;
+  	border-right: none;
+  	border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -124,8 +124,8 @@
 .inset-linebreak{
 	border: inset 4px;
 	border-bottom: none;
-  border-right: none;
-  border-left: none;
+  	border-right: none;
+  	border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -133,8 +133,8 @@
 .outset-linebreak{
 	border: outset 4px;
 	border-bottom: none;
-  border-right: none;
-  border-left: none;
+  	border-right: none;
+  	border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -177,7 +177,7 @@
 
 /*
 .container-fld{
-	width: 100%;
+    width: 100%;
     padding-right: var(--bs-gutter-x,.75rem);
     padding-left: var(--bs-gutter-x,.75rem);
     margin-right: auto;
