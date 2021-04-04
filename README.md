@@ -151,5 +151,5 @@ Examples:
 
 Preview: : ( for code check right click and view page source )
 
-https://yaseen549.github.io/Ui-Laboratory-code-review/
+https://yaseen549.github.io/sybrenium-code-review/
 
