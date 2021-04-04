@@ -135,14 +135,14 @@ class="border-grey"
 4.	italic
 5.	ruled
 6.	overline
-
+```
 Eg: class=”strikeout”   	|   strikeout
 Eg: class=”underline”   	|   underline
 Eg: class=”bold”   	|   bold
 Eg: class=”italic”   	|   italic
 Eg: class=”ruled”   	|   ruled
 Eg: class=”overline”   	|   overline
-
+```
 Note:
 strikeout will not work while underline is exist
 
