@@ -21,7 +21,7 @@ border-none				|   Eg: border-none
 border-hidden				|   Eg: border-hidden
 
 UseCases: (style)
-
+```
 class="border"
 
 class="border-dotted"
@@ -67,13 +67,13 @@ class="border-outset-lg"
 class="border-none"
 
 class="border-hidden"
-
+```
 /* Line Break classes*/
 
 “border-style”-linebreak		|  Eg: dashed-linebreak
 
 Use Cases: (style)
-
+```
 class="dotted-linebreak"
 class="dashed-linebreak"
 class="solid-linebreak"
@@ -82,14 +82,14 @@ class="groove-linebreak"
 class="ridge-linebreak"
 class="inset-linebreak"
 class="outset-linebreak"
-
+```
 
 /* color classes */
 
 class=”color”
 
 UseCases:
-
+```
 class="red"
 class="green"
 class="yellow"
@@ -103,7 +103,7 @@ class="gold"
 class="maroon"
 class="magenta"
 class="grey"
-
+```
 Border Colors:
 
 border-"color"
@@ -111,7 +111,7 @@ border-"color"
 Eg: border-green
 
 UsesCases:
-
+```
 class="border-red"
 class="border-green"
 class="border-yellow"
@@ -125,7 +125,7 @@ class="border-gold"
 class="border-maroon"
 class="border-magenta"
 class="border-grey"
-
+```
 
 /* Font style classes */
 
@@ -149,6 +149,7 @@ strikeout will not work while underline is exist
 
 Examples:
 
-Preview:
+Preview: : ( for code check right click and view page source )
+
 https://yaseen549.github.io/Ui-Laboratory-code-review/
 
