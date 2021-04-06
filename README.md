@@ -5,14 +5,15 @@ CDN:
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Syber-Lab/Sybrenium@b3baa6cc891a2f05509e004ea588efee7545bdbf/dist/css/main.css">
 ```
 
-/* ----- Classes ----- */
+##  Classes 
 
 Block:
 	Works like container-fluid in Bootstrap
 
 Eg:    class=”block”
 
-/* Border classes */
+
+## Border classes
 
 border					|   Eg: border: helps in making padding
 border-"style"   			|   Eg: border-dotted
@@ -68,11 +69,12 @@ class="border-none"
 
 class="border-hidden"
 ```
-/* Line Break classes*/
+## Line Break classes
 
 “border-style”-linebreak		|  Eg: dashed-linebreak
 
 Use Cases: (style)
+
 ```
 class="dotted-linebreak"
 class="dashed-linebreak"
@@ -84,7 +86,7 @@ class="inset-linebreak"
 class="outset-linebreak"
 ```
 
-/* color classes */
+## Color classes
 
 class=”color”
 
@@ -127,7 +129,7 @@ class="border-magenta"
 class="border-grey"
 ```
 
-/* Font style classes */
+## Font style classes
 
 1.	strikeout
 2.	underline
@@ -135,16 +137,35 @@ class="border-grey"
 4.	italic
 5.	ruled
 6.	overline
+
 ```
-Eg: class=”strikeout”   	|   strikeout
-Eg: class=”underline”   	|   underline
-Eg: class=”bold”   	|   bold
-Eg: class=”italic”   	|   italic
-Eg: class=”ruled”   	|   ruled
-Eg: class=”overline”   	|   overline
+Eg: class="strikeout"   	|   strikeout
+Eg: class="underline"   	|   underline
+Eg: class="bold"   			|   bold
+Eg: class="italic"   		|   italic
+Eg: class="ruled"   		|   ruled
+Eg: class="overline"   		|   overline
 ```
 Note:
 strikeout will not work while underline is exist
+
+
+## Cards
+
+### card class
+
+1.	card
+2.	quote-card
+3.  card-hover
+
+Use Case
+```
+class="card"
+class="card-hover"
+class="quote-card"
+class="card card-hover"
+```
+
 
 
 Examples:
