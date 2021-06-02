@@ -1,4 +1,4 @@
-/* ----- color:s -----*/
+/* ----- Colors -----*/
 .red {color: red;}
 
 .green {color: green;}
@@ -26,7 +26,7 @@
 .grey{color: #808080;}
 
 
-/* ----- background-color:s -----*/
+/* ----- background-colors -----*/
 .bg-red {background-color: red;}
 
 .bg-green {background-color: green;}
@@ -54,7 +54,9 @@
 .bg-grey{background-color: #808080;}
 
 
-/* ----- border-color:s -----*/
+
+/* border colors */
+
 .border-red {border-color: red !important;}
 
 .border-green {border-color: green !important;}

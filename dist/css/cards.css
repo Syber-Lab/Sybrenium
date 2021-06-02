@@ -1,5 +1,13 @@
 /*  Cards  */
 
+/* .card{
+  padding: 0.75rem;
+  box-shadow: 2px 4px 8px #585858;
+  border-radius: 5px;
+} */
+/* 50px 30px 5px; */
+/* filter: drop-shadow(2px 4px 8px #585858); */
+
 .card{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
@@ -8,19 +16,12 @@
   /* transition: 0.3s; */
 }
 
-.card-hover {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  border-radius: 5px;
-  padding: 0.75rem;
-  /* margin: 20.5px; */
-  /* transition: 0.3s; */
+.mycard{
+  top:50px;
+  left:10px;
+  width:200px;
+  height:200px;
 }
-
-.card-hover:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-/* Quote cards */
 
 .quote-card{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -39,3 +40,44 @@
 .quote-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+
+.nav-card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  /* border-radius: 0 0 5px 5px; */
+  padding: 0.75rem;
+  /* transition: 0.3s; */
+}
+
+.card-hover {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 0.75rem;
+  /* margin: 20.5px; */
+  /* transition: 0.3s; */
+}
+
+.card-hover:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* .draag{
+  position:absolute;
+  top:50px;
+  left:10px;
+  width:200px;
+  height:200px;
+} */
+
+/*
+.dragging{
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+} */
+
+/*
+.container {
+  padding: 2px 16px;
+} */

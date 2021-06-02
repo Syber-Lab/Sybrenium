@@ -1,0 +1,99 @@
+/* ----- Floating properties ----- */
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.none {
+  float: none;
+}
+.inherit {
+  float: inherit;
+}
+
+/* Align-Content */
+
+.content-center {
+  align-content:center;
+}
+
+.content-stretch {
+  align-content:stretch;
+}
+
+.content-flex-start {
+  align-content: flex-start;
+}
+
+.content-flex-end {
+  align-content: flex-end;
+}
+
+.content-space-between {
+  align-content: space-between;
+}
+
+.content-space-around {
+  align-content: space-around ;
+}
+
+.content-space-evenly {
+  align-content: space-evenly;
+}
+
+.content-initial {
+  align-content: initial;
+}
+
+/* Align-items */
+
+.items-flex-start {
+  align-items: flex-start;
+}
+
+.items-flex-end {
+  align-items: flex-end;
+}
+
+.items-stretch {
+  align-items:stretch;
+}
+
+.items-baseline {
+  align-items:baseline;
+}
+
+.items-center {
+  align-items:center;
+}
+
+.items-initial {
+  align-items: initial;
+}
+
+/* Align-self */
+
+.self-auto {
+  align-self: auto;
+}
+
+.self-flex-start {
+  align-self: flex-start;
+}
+
+.self-flex-end {
+  align-self: flex-end;
+}
+
+.self-stretch {
+  align-self: stretch;
+}
+
+.self-baseline {
+  align-self: center;
+}
+
+.self-flex-start {
+  align-self: initial;
+}

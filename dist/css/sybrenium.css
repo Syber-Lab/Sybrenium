@@ -21,8 +21,8 @@
   margin-left: auto;
 }
 
-
 /* Border classes */
+
 .border{
   padding: 0.75rem;
 }
@@ -74,6 +74,14 @@
 /* .mix-border { border: dotted dashed solid double;} */
 .mix-border{border-style: dotted dashed solid double;}
 
+.round-border-5 {
+  border-radius: 5px;
+}
+
+.round-border-25 {
+  border-radius: 25px;
+}
+
 /* shot Line Breaks */
 .dotted-linebreak{
 	border: dotted 4px;
@@ -106,8 +114,8 @@
 .groove-linebreak{
 	border: groove 4px;
 	border-bottom: none;
-  	border-right: none;
-  	border-left: none;
+  border-right: none;
+  border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -115,8 +123,8 @@
 .ridge-linebreak{
 	border: ridge 4px;
 	border-bottom: none;
-  	border-right: none;
-  	border-left: none;
+  border-right: none;
+  border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -124,8 +132,8 @@
 .inset-linebreak{
 	border: inset 4px;
 	border-bottom: none;
-  	border-right: none;
-  	border-left: none;
+  border-right: none;
+  border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -133,8 +141,8 @@
 .outset-linebreak{
 	border: outset 4px;
 	border-bottom: none;
-  	border-right: none;
-  	border-left: none;
+  border-right: none;
+  border-left: none;
  	width: 4%;
  	margin: 50px auto;
 }
@@ -171,4 +179,17 @@
 }
 
 
+
+/* Borders */
+
+
+/*
+.container-fld{
+	width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+*/
 /* ----- Id's ----- */
