@@ -1,11 +1,11 @@
-# Sybrenium Initiated
+# Sybrenium
 
-CDN: 
+CDN:
 ```CSS
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/Syber-Lab/Sybrenium@b3baa6cc891a2f05509e004ea588efee7545bdbf/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.0/dist/css/main.css">
 ```
 
-##  Classes 
+##  Classes
 
 Block:
 	Works like container-fluid in Bootstrap
@@ -15,11 +15,15 @@ Eg:    class=”block”
 
 ## Border classes
 
-border					|   Eg: border: helps in making padding
-border-"style"   			|   Eg: border-dotted
-border-"style"-“size”			|   Eg: border-dashed-sm | xs | sm | lg
-border-none				|   Eg: border-none
-border-hidden				|   Eg: border-hidden
+border					|   Eg: border: helps in making padding,
+
+border-"style"   			|   Eg: border-dotted,
+
+border-"style"-“size”			|   Eg: border-dashed-sm | xs | sm | lg,
+
+border-none				|   Eg: border-none,
+
+border-hidden				|   Eg: border-hidden,
 
 UseCases: (style)
 ```
@@ -31,39 +35,39 @@ class="border-dotted-sm"
 class="border-dotted-lg"
 
 class="border-dashed"
-class="border-dashed-xs" 
+class="border-dashed-xs"
 class="border-dashed-sm"
 class="border-dashed-lg"
 
 class="border-solid"
-class="border-solid-xs" 
-class="border-solid-sm" 
-class="border-solid-lg" 
+class="border-solid-xs"
+class="border-solid-sm"
+class="border-solid-lg"
 
 class="border-double"
-class="border-double-xs" 
-class="border-double-sm" 
-class="border-double-lg" 
+class="border-double-xs"
+class="border-double-sm"
+class="border-double-lg"
 
-class="border-groove" 
-class="border-groove-xs" 
-class="border-groove-sm" 
-class="border-groove-lg" 
+class="border-groove"
+class="border-groove-xs"
+class="border-groove-sm"
+class="border-groove-lg"
 
 class="border-ridge"
-class="border-ridge-xs" 
-class="border-ridge-sm" 
-class="border-ridge-lg" 
-	
+class="border-ridge-xs"
+class="border-ridge-sm"
+class="border-ridge-lg"
+
 class="border-inset"
-class="border-inset-xs" 
-class="border-inset-sm" 
-class="border-inset-lg" 
+class="border-inset-xs"
+class="border-inset-sm"
+class="border-inset-lg"
 
 class="border-outset"
-class="border-outset-xs" 
-class="border-outset-sm" 
-class="border-outset-lg" 
+class="border-outset-xs"
+class="border-outset-sm"
+class="border-outset-lg"
 
 class="border-none"
 
@@ -106,6 +110,23 @@ class="maroon"
 class="magenta"
 class="grey"
 ```
+
+
+## Hex Colors
+
+### Colors
+Eg: _F0F
+
+### Background colors
+Eg: _BGx00F
+
+Use Case
+```
+class="_548"
+class="_BGx0F0"
+```
+
+
 Border Colors:
 
 border-"color"
@@ -141,7 +162,7 @@ class="border-grey"
 ```
 Eg: class="strikeout"   	|   strikeout
 Eg: class="underline"   	|   underline
-Eg: class="bold"   			|   bold
+Eg: class="bold"   		|   bold
 Eg: class="italic"   		|   italic
 Eg: class="ruled"   		|   ruled
 Eg: class="overline"   		|   overline
@@ -168,9 +189,9 @@ class="card card-hover"
 
 
 
+
 Examples:
 
 Preview: : ( for code check right click and view page source )
 
 https://yaseen549.github.io/sybrenium-code-review/
-
