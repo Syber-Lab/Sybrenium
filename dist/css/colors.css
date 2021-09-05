@@ -1,5 +1,11 @@
 /* ----- Colors -----*/
 .red {color: red;}
+.bggg{
+  /* background: -webkit-linear-gradient(#2fa, #abc); */
+  background: linear-gradient(to right, #30CFD0 0%, #f00 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
 
 .green {color: green;}
 
