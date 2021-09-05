@@ -1,14 +1,31 @@
-# Sybrenium
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="imgs/Sybrenium.png" alt="Bootstrap logo" width="180" height="165">
+  </a>
+</p>
+
+<h3 align="center">Sybrenium</h3>
+
+
+<p align="center">
+  A new framework for UI/UX Development with lots of amazing Development Kit
+  <br>
+  <a href="https://github.com/Syber-Lab/Sybrenium"><strong>Explore Syrenium docs »</strong></a>
+  <br>
+</p>
+
 
 CDN:
 ```CSS
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.0/dist/css/main.css">
 ```
 
+<hr>
+
 ##  Classes
 
 Block:
-	Works like container-fluid in Bootstrap
+	Works like container-fluid
 
 Eg:    class=”block”
 
@@ -186,12 +203,3 @@ class="card-hover"
 class="quote-card"
 class="card card-hover"
 ```
-
-
-
-
-Examples:
-
-Preview: : ( for code check right click and view page source )
-
-https://yaseen549.github.io/sybrenium-code-review/
