@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://syberstar.netlify.com/">
-    <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Bootstrap logo" width="165" height="165">
+    <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Bootstrap logo" width="180" height="165">
   </a>
 </p>
 
@@ -202,4 +202,27 @@ class="card"
 class="card-hover"
 class="quote-card"
 class="card card-hover"
+```
+<hr>
+
+## What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+```text
+Sybrenium/
+└── dist/
+    ├── css/
+    │   ├── alignments.css
+    │   ├── buttons.css
+    │   ├── cards.css
+    │   ├── colors.css
+    │   ├── hexcolors.css
+    │   ├── main.css
+    │   ├── size.css
+    │   ├── sybrenium.css
+    │   └── tags.css
+    └── js/
+      	└── main.js
+
 ```
