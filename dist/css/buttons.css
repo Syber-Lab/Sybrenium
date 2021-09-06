@@ -1,20 +1,7 @@
-button{
-  padding: 0.4rem;
-  border-radius: 0.3rem;
-  border-color: inherit;
-  border-width: thin;
-  /* filter: drop-shadow(0.2rem 0.2rem 0.2rem); */
-  /* text-shadow: 2px 2px #ff0000; */
-}
-
 .text-shadow{
   text-shadow: 1px 1px 1px;
 }
-.btn-shadow{
-  filter: drop-shadow(1px 1px 1px);
-}
 
-.btn-primary{
-  color: white;
-  background-color: #24a0ed;
+.btn-shadow, .glow{
+  filter: drop-shadow(1px 1px 1px);
 }

@@ -10,14 +10,14 @@
 <p align="center">
   A new framework for UI/UX Development with lots of amazing Development Kit
   <br>
-  <a href="https://github.com/Syber-Lab/Sybrenium"><strong>Explore Syrenium docs »</strong></a>
+  <a href="https://github.com/Syber-Lab/Sybrenium"><strong>Explore Sybrenium docs »</strong></a>
   <br>
 </p>
 
 
 CDN:
 ```CSS
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.3/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.4/dist/css/main.css">
 ```
 
 <hr>

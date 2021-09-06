@@ -17,8 +17,7 @@
 /* ----- Classes ----- */
 .block {
   padding: 0.75rem;
-  margin-right: auto;
-  margin-left: auto;
+  margin: auto;
 }
 
 /* Border classes */
