@@ -17,7 +17,7 @@
 
 CDN:
 ```CSS
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.4/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.5/dist/css/main.css">
 ```
 
 <hr>
