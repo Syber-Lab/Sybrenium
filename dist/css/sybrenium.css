@@ -2,19 +2,7 @@
   resize: both;
 }
 
-/* future works */
-
-.vertical-upright{
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-}
-
-.vertical-upright2{
-  writing-mode: vertical-lr;
-  text-orientation: downright;
-}
-
-/* ----- Classes ----- */
+/* ----- Main Class ----- */
 .block {
   padding: 0.75rem;
   margin: auto;
@@ -81,7 +69,7 @@
   border-radius: 25px;
 }
 
-/* shot Line Breaks */
+/* short Line Breaks */
 .dotted-linebreak{
 	border: dotted 4px;
 	border-bottom: none;
@@ -177,18 +165,31 @@
   text-align: center;
 }
 
+/* Font styles */
 
+.transparent{filter: drop-shadow(0.1rem 0.1rem 0.1rem);}
 
-/* Borders */
+.text-shadow{text-shadow: 1px 1px 1px;}
 
+.glow{filter: drop-shadow(0rem 0rem 0.4rem);}
 
-/*
-.container-fld{
-	width: 100%;
-    padding-right: var(--bs-gutter-x,.75rem);
-    padding-left: var(--bs-gutter-x,.75rem);
-    margin-right: auto;
-    margin-left: auto;
+.shadow{
+    filter: drop-shadow(0.1rem 0.1rem 0.1rem #888888);
 }
-*/
-/* ----- Id's ----- */
+
+/* Upcoming features */
+
+/* .vertical-upright{
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+.vertical-downright{
+  writing-mode: vertical-lr;
+  text-orientation: downright;
+}
+
+.vertical-upleft{
+  writing-mode: vertical-rl;
+  text-orientation: upleft;
+} */

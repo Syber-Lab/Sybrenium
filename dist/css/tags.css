@@ -7,6 +7,5 @@ button{
   border-radius: 0.3rem;
   border-color: inherit;
   border-width: thin;
-  /* filter: drop-shadow(0.2rem 0.2rem 0.2rem); */
-  /* text-shadow: 2px 2px #ff0000; */
+  font-weight: bold;
 }

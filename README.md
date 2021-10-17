@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://syberstar.netlify.com/">
-    <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Bootstrap logo" width="180" height="165">
+    <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Sybrenium logo" width="165" height="165">
   </a>
 </p>
 

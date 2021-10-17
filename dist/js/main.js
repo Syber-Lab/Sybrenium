@@ -1,2 +1,1 @@
-// alert("Welcome to Sybrenium!");
- 
+alert("Welcome to Sybrenium!");
