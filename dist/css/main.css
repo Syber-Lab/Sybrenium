@@ -1,9 +1,11 @@
 @import 'fonts/font-family.css';
 
+@import 'alignments.css';
+@import 'buttons.css';
+@import 'cards.css';
 @import 'colors.css';
 @import 'hexcolors.css';
-@import 'cards.css';
-@import 'tags.css';
-@import 'buttons.css';
-@import 'alignments.css';
+
+@import 'size.css';
 @import 'sybrenium.css';
+@import 'tags.css';
