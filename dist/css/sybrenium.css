@@ -1,5 +1,9 @@
 .resize{
   resize: both;
+  overflow: auto;
+  padding: 20px;
+  width: 300px;
+  border: 1px solid;
 }
 
 /* ----- Main Class ----- */
@@ -10,9 +14,7 @@
 
 /* Border classes */
 
-.border{
-  padding: 0.75rem;
-}
+.border{padding: 0.75rem;}
 
 .border-dotted {border: dotted 3px;}
 .border-dotted-xs {border: dotted 2px;}
@@ -135,47 +137,25 @@
 }
 
 /* Bold italic underline */
-
-.italic{
-  font-style: italic;
-}
-
-.bold{
-  font-weight: bolder;
-}
-
-.overline {
-  text-decoration: overline;
-}
-
-.strikeout {
-  text-decoration: line-through;
-}
-
-.underline {
-  text-decoration: underline;
-}
-
-.ruled {
-  text-decoration: underline overline;
-}
-
-.center-all{
-  align-items: center;
-  text-align: center;
-}
+.italic{font-style: italic;}
+.bold{font-weight: bolder;}
+.overline{text-decoration: overline;}
+.strikeout{text-decoration: line-through;}
+.underline{text-decoration: underline;}
+.ruled{text-decoration: underline overline;}
+.center{text-align: center;}
+.center-all{align-items: center;text-align: center;}
 
 /* Font styles */
-
 .transparent{filter: drop-shadow(0.1rem 0.1rem 0.1rem);}
 
 .text-shadow{text-shadow: 1px 1px 1px;}
 
 .glow{filter: drop-shadow(0rem 0rem 0.4rem);}
 
-.shadow{
-    filter: drop-shadow(0.1rem 0.1rem 0.1rem #888888);
-}
+.shadow{filter: drop-shadow(0.1rem 0.1rem 0.1rem #888888);}
+
+.box-shadow{box-shadow: 0.5rem 0.5rem 0.5rem #888888}
 
 /* Upcoming features */
 

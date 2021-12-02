@@ -8,20 +8,39 @@
 /* 50px 30px 5px; */
 /* filter: drop-shadow(2px 4px 8px #585858); */
 
-.card{
+.card1{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 0.75rem;
+  width: -moz-fit-content;
+  width: fit-content;
+
   /* margin: 20.5px; */
   /* transition: 0.3s; */
 }
 
-.mycard{
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 1.75rem;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.card3{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 2.75rem;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+/* .mycard{
   top:50px;
   left:10px;
   width:200px;
   height:200px;
-}
+} */
 
 .quote-card{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -29,9 +48,9 @@
   padding: 0.75rem;
   text-align: center;
   align-items: center;
-  position:absolute;
-  top:50px;
-  left:10px;
+  /* position:absolute; */
+  /* top:50px;
+  left:10px; */
   width:200px;
   height:200px;
   cursor: grab;
@@ -52,12 +71,14 @@
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 0.75rem;
+  width: -moz-fit-content;
+  width: fit-content;
   /* margin: 20.5px; */
   /* transition: 0.3s; */
 }
 
 .card-hover:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 5px 10px 0;
 }
 
 /* .draag{

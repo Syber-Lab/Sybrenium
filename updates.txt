@@ -1,0 +1,7 @@
+Sybrenium@1.1.0 Updates
+
+1. seperated shadow, text shadow and glow.
+4. Cards - card1, card2, card3
+3. Added font-family.css
+2. Added Sizes _0rem to _100rem, _0px to _10000px
+5. Refactor sybrenium.css

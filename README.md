@@ -17,7 +17,7 @@
 
 CDN:
 ```CSS
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.0.5/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.1.0/dist/css/main.css">
 ```
 
 <hr>
@@ -27,8 +27,7 @@ CDN:
 Block:
 	Works like container-fluid
 
-Eg:    class=”block”
-
+Eg:    class="block"
 
 ## Border classes
 
@@ -213,10 +212,12 @@ Within the download you'll find the following directories and files, logically g
 Sybrenium/
 └── dist/
     ├── css/
+    │   ├── fonts/
     │   ├── alignments.css
     │   ├── buttons.css
     │   ├── cards.css
     │   ├── colors.css
+    │   ├── font-family.css
     │   ├── hexcolors.css
     │   ├── main.css
     │   ├── size.css
