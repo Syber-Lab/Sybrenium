@@ -2,7 +2,7 @@
 name: Report a Bug
 about: Tell us about a bug or issue you may have identified in Sybrenium.
 title: ''
-labels: bug
+labels: feature
 assignees: ''
 
 ---
