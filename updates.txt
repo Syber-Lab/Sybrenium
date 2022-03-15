@@ -1,7 +1,13 @@
-Sybrenium@1.1.0 Updates
+Sybrenium@1.1.1 Updates
 
-1. seperated shadow, text shadow and glow.
-4. Cards - card1, card2, card3
-3. Added font-family.css
-2. Added Sizes _0rem to _100rem, _0px to _10000px
-5. Refactor sybrenium.css
+Added:
+1. Font-Family: "Fredoka"
+2. Rarest and obscure colors based on "Best Lifeo" & "Packaging Innovation"
+3. Shorten of font-family.css
+4. Template Initiated for "Report a Bug", "Feature Request"
+5. border brake down to "bdr".
+6. Added Flex & Jusitfy properties in "alignments.css"
+
+Deprecated:
+1. dist/css/tags.css
+2. border property

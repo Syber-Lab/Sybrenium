@@ -1,20 +1,11 @@
 /*  Cards  */
 
-/* .card{
-  padding: 0.75rem;
-  box-shadow: 2px 4px 8px #585858;
-  border-radius: 5px;
-} */
-/* 50px 30px 5px; */
-/* filter: drop-shadow(2px 4px 8px #585858); */
-
 .card1{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 0.75rem;
   width: -moz-fit-content;
   width: fit-content;
-
   /* margin: 20.5px; */
   /* transition: 0.3s; */
 }
@@ -34,13 +25,6 @@
   width: -moz-fit-content;
   width: fit-content;
 }
-
-/* .mycard{
-  top:50px;
-  left:10px;
-  width:200px;
-  height:200px;
-} */
 
 .quote-card{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -101,4 +85,19 @@
 /*
 .container {
   padding: 2px 16px;
+} */
+
+/* .card{
+  padding: 0.75rem;
+  box-shadow: 2px 4px 8px #585858;
+  border-radius: 5px;
+} */
+/* 50px 30px 5px; */
+/* filter: drop-shadow(2px 4px 8px #585858); */
+
+/* .mycard{
+  top:50px;
+  left:10px;
+  width:200px;
+  height:200px;
 } */

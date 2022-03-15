@@ -8,4 +8,6 @@
 
 @import 'size.css';
 @import 'sybrenium.css';
-@import 'tags.css';
+
+/* Deprecated */
+/* @import 'tags.css'; */

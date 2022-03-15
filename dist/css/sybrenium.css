@@ -14,7 +14,7 @@
 
 /* Border classes */
 
-.border{padding: 0.75rem;}
+.bdr{padding: 0.75rem;}
 
 .border-dotted {border: dotted 3px;}
 .border-dotted-xs {border: dotted 2px;}
@@ -137,11 +137,11 @@
 }
 
 /* Bold italic underline */
-.italic{font-style: italic;}
 .bold{font-weight: bolder;}
+.italic{font-style: italic;}
+.underline{text-decoration: underline;}
 .overline{text-decoration: overline;}
 .strikeout{text-decoration: line-through;}
-.underline{text-decoration: underline;}
 .ruled{text-decoration: underline overline;}
 .center{text-align: center;}
 .center-all{align-items: center;text-align: center;}

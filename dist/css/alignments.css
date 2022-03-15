@@ -1,38 +1,76 @@
-/* ----- Floating properties ----- */
-.right {float: right;}
-.left {float: left;}
-.none {float: none;}
-.inherit {float: inherit;}
-.bottom {bottom: 0px;}
+/*-----Floatingproperties-----*/
+.right{float:right;}
+.left{float:left;}
+.none{float:none;}
+.inherit{float:inherit;}
+/* .bottom{bottom:0px;} */
 
+.flex{display: flex;flex-wrap: wrap;}
 
-.inline{
-  display: inline-block;
-}
+/*Align-Content*/
+.content-center{align-content:center;}
+.content-stretch{align-content:stretch;}
+.content-flex-start{align-content:flex-start;}
+.content-flex-end{align-content:flex-end;}
+.content-space-between{align-content:space-between;}
+.content-space-around{align-content:space-around;}
+.content-space-evenly{align-content:space-evenly;}
+.content-initial{align-content:initial;}
 
-/* Align-Content */
-.content-center {align-content:center;}
-.content-stretch {align-content:stretch;}
-.content-flex-start {align-content: flex-start;}
-.content-flex-end {align-content: flex-end;}
-.content-space-between {align-content: space-between;}
-.content-space-around {align-content: space-around ;}
-.content-space-evenly {align-content: space-evenly;}
-.content-initial {align-content: initial;}
+/*Align-items*/
+.items-center{align-items:center;}
+.items-stretch{align-items:stretch;}
+.items-flex-start{align-items:flex-start;}
+.items-flex-end{align-items:flex-end;}
+.items-baseline{align-items:baseline;}
+.items-initial{align-items:initial;}
 
-/* Align-items */
-.items-flex-start {align-items: flex-start;}
-.items-flex-end {align-items: flex-end;}
-.items-stretch {align-items:stretch;}
-.items-baseline {align-items:baseline;}
-.items-center {align-items:center;}
-.items-initial {align-items: initial;}
+/*Align-self*/
+.self-auto{align-self:auto;}
+.self-flex-start{align-self:flex-start;}
+.self-flex-end{align-self:flex-end;}
+.self-stretch{align-self:stretch;}
+.self-baseline{align-self:baseline;;}
+.self-center{align-self:center;}
+.self-initial{align-self:initial;}
 
-/* Align-self */
-.self-auto {align-self: auto;}
-.self-flex-start {align-self: flex-start;}
-.self-flex-end {align-self: flex-end;}
-.self-stretch {align-self: stretch;}
-.self-baseline {align-self: baseline;;}
-.self-center {align-self: center;}
-.self-initial {align-self: initial;}
+/* Justify Contents are extracted from MDN Mozilla "https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content" */
+
+/* Justifyc-Content */
+/* Positional alignment */
+.justify-center{justify-content: center;}     /* Pack items around the center */
+.justify-start{justify-content: start;}   /* Pack items from the start */
+.justify-end{justify-content: end;}        /* Pack items from the end */
+.justify-flex-start{justify-content: flex-start;} /* Pack flex items from the start */
+.justify-flex-end{justify-content: flex-end;}   /* Pack flex items from the end */
+.justify-left{justify-content: left;}       /* Pack items from the left */
+.justify-right{justify-content: right;}      /* Pack items from the right */
+
+/* Baseline alignment */
+/* justify-content does not take baseline values */
+
+/* Normal alignment */
+.justify-normal{justify-content: normal;}
+
+/* Distributed alignment */
+.justify-space-between{justify-content: space-between;} /* Distribute items evenly
+                                   The first item is flush with the start,
+                                   the last is flush with the end */
+.justify-space-around{justify-content: space-around;}  /* Distribute items evenly
+                                   Items have a half-size space
+                                   on either end */
+.justify-space-evenly{justify-content: space-evenly;}  /* Distribute items evenly
+                                   Items have equal space around them */
+.justify-stretch{justify-content: stretch;}       /* Distribute items evenly
+                                   Stretch 'auto'-sized items to fit
+                                   the container */
+
+/* Overflow alignment */
+.justify-safe-center{justify-content: safe center;}
+.justify-unsafe-center{justify-content: unsafe center;}
+
+/* Global values */
+.justify-inherit{justify-content: inherit;}
+.justify-initial{justify-content: initial;}
+.justify-revert{justify-content: revert;}
+.justify-unset{justify-content: unset;}
