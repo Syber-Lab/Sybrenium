@@ -9,7 +9,8 @@
 <p align="center">
 Sketching the Web is now Manageable, and Straightforward to Level the Design.
   <br>
-  <a href="https://sybrenium.syberstar.com/"><strong>Explore Sybrenium docs »</strong></a>
+  <!-- <a href="https://sybrenium.syberstar.com/"><strong>Explore Sybrenium docs »</strong></a> -->
+  <a href="https://choose-sybrenium-docs.netlify.app/"><strong>Explore Sybrenium docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/Syber-Lab/Sybrenium/issues/new?assignees=&labels=bug&template=bug_report.yml">Report bug</a>
@@ -25,8 +26,8 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 ### Table of contents
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
+- [Creator](#creator)
 <!-- - [Bugs and feature requests](#bugs-and-feature-requests) -->
-- [Creators](#creators)
 
 ### Quick start
 Several quick start options are available:
@@ -35,7 +36,7 @@ Several quick start options are available:
 - Clone the repo: `git clone https://github.com/Syber-Lab/Sybrenium.git`
 - Install with [npm](https://www.npmjs.com/): `npm install Sybrenium`
 
-Read the [Getting started page](https://sybrenium.syberstar.com/) for information on the framework contents, templates, examples, and more.
+<!-- Read the [Getting started page](https://sybrenium.syberstar.com/) for information on the framework contents, templates, examples, and more. -->
 
 
 ### What's included
