@@ -35,6 +35,7 @@ Several quick start options are available:
 - [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v1.1.1.zip)
 - Clone the repo: `git clone https://github.com/Syber-Lab/Sybrenium.git`
 - Install with [npm](https://www.npmjs.com/): `npm install Sybrenium`
+- Install with [yarn](https://wwwyarnpkg.com) `yarn add sybrenium`
 
 <!-- Read the [Getting started page](https://sybrenium.syberstar.com/) for information on the framework contents, templates, examples, and more. -->
 

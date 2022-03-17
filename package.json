@@ -1,7 +1,7 @@
 {
   "name": "sybrenium",
   "version": "1.1.1",
-  "description": "A new framework for UI/UX Development with lots of amazing Development Kit",
+  "description": "Sketching the Web is now Manageable, and Straightforward to Level the Design.",
   "main": "dist/css/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
