@@ -1,7 +1,7 @@
 Sybrenium@1.1.1 Updates
 
 Added:
-1. Font-Family: "OpenSans","Pacifico"
+- Testing feature
 
 Deprecated:
 - NA
