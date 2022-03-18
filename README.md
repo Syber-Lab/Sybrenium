@@ -10,7 +10,7 @@
 Sketching the Web is now Manageable, and Straightforward to Level the Design.
   <br>
   <!-- <a href="https://sybrenium.syberstar.com/"><strong>Explore Sybrenium docs »</strong></a> -->
-  <a href="https://choose-sybrenium-docs.netlify.app/"><strong>Explore Sybrenium docs »</strong></a>
+  <a href="https://choose-sybrenium-docs.syberstar.com/"><strong>Explore Sybrenium docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/Syber-Lab/Sybrenium/issues/new?assignees=&labels=bug&template=bug_report.yml">Report bug</a>
