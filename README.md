@@ -25,6 +25,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 
 ### Table of contents
 - [Quick start](#quick-start)
+- [Stub code](#quick-start)
 - [What's included](#whats-included)
 - [Creator](#creator)
 <!-- - [Bugs and feature requests](#bugs-and-feature-requests) -->
@@ -39,6 +40,40 @@ Several quick start options are available:
 
 <!-- Read the [Getting started page](https://sybrenium.syberstar.com/) for information on the framework contents, templates, examples, and more. -->
 
+### Stub code
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Sybrenium</title>
+
+  <!-- links -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.1.1/dist/css/main.css">
+  <!-- Other css links -->
+
+</head>
+<body>
+
+  <!-- sample code -->
+
+  <div class="center"> <!-- Center the div element -->
+    <h1 class="italic">Hello User!</h1> <!-- italicize the h1 -->
+    <h1 class="underline">Hello User!</h1> <!-- underlining the h1 -->
+    <h1 class="green">Hello User!</h1> <!-- adding color green to h1 -->
+    <h1 class="Pacifico">Hello User!</h1> <!-- adding font-style to h1 -->
+  </div>
+
+  <!-- End of sample code -->
+
+  <!-- Script tags -->
+  <!-- User Defined Scripts / Other Scripts below -->
+  <script src="ExternalJsFile.js" charset="utf-8"></script>
+</body>
+</html>
+```
 
 ### What's included
 

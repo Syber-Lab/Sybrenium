@@ -4,6 +4,7 @@
 .tmp
 .DS_Store
 .npmignore
+at.txt
 
 .o
 .pyc
