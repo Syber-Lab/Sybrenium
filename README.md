@@ -25,7 +25,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 
 ### Table of contents
 - [Quick start](#quick-start)
-- [Stub code](#quick-start)
+- [Stub code](#stub-code)
 - [What's included](#whats-included)
 - [Creator](#creator)
 <!-- - [Bugs and feature requests](#bugs-and-feature-requests) -->
