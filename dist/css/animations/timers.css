@@ -1,0 +1,108 @@
+/* Animation Duration */
+.animation-duration-1s{-webkit-animation-duration:1s !important;animation-duration: 1s !important;}
+.animation-duration-2s{-webkit-animation-duration:2s !important;animation-duration: 2s !important;}
+.animation-duration-3s{-webkit-animation-duration:3s !important;animation-duration: 3s !important;}
+.animation-duration-4s{-webkit-animation-duration:4s !important;animation-duration: 4s !important;}
+.animation-duration-5s{-webkit-animation-duration:5s !important;animation-duration: 5s !important;}
+.animation-duration-6s{-webkit-animation-duration:6s !important;animation-duration: 6s !important;}
+.animation-duration-7s{-webkit-animation-duration:7s !important;animation-duration: 7s !important;}
+.animation-duration-8s{-webkit-animation-duration:8s !important;animation-duration: 8s !important;}
+.animation-duration-9s{-webkit-animation-duration:9s !important;animation-duration: 9s !important;}
+.animation-duration-10s{-webkit-animation-duration:10s !important;animation-duration: 10s !important;}
+.animation-duration-11s{-webkit-animation-duration:11s !important;animation-duration: 11s !important;}
+.animation-duration-12s{-webkit-animation-duration:12s !important;animation-duration: 12s !important;}
+.animation-duration-13s{-webkit-animation-duration:13s !important;animation-duration: 13s !important;}
+.animation-duration-14s{-webkit-animation-duration:14s !important;animation-duration: 14s !important;}
+.animation-duration-15s{-webkit-animation-duration:15s !important;animation-duration: 15s !important;}
+.animation-duration-16s{-webkit-animation-duration:16s !important;animation-duration: 16s !important;}
+.animation-duration-17s{-webkit-animation-duration:17s !important;animation-duration: 17s !important;}
+.animation-duration-18s{-webkit-animation-duration:18s !important;animation-duration: 18s !important;}
+.animation-duration-19s{-webkit-animation-duration:19s !important;animation-duration: 19s !important;}
+.animation-duration-20s{-webkit-animation-duration:20s !important;animation-duration: 20s !important;}
+.animation-duration-21s{-webkit-animation-duration:21s !important;animation-duration: 21s !important;}
+.animation-duration-22s{-webkit-animation-duration:22s !important;animation-duration: 22s !important;}
+.animation-duration-23s{-webkit-animation-duration:23s !important;animation-duration: 23s !important;}
+.animation-duration-24s{-webkit-animation-duration:24s !important;animation-duration: 24s !important;}
+.animation-duration-25s{-webkit-animation-duration:25s !important;animation-duration: 25s !important;}
+
+
+/* Transition */
+.transition-1s{transition: 1s !important};
+.transition-2s{transition: 2s !important};
+.transition-3s{transition: 3s !important};
+.transition-4s{transition: 4s !important};
+.transition-5s{transition: 5s !important};
+.transition-6s{transition: 6s !important};
+.transition-7s{transition: 7s !important};
+.transition-8s{transition: 8s !important};
+.transition-9s{transition: 9s !important};
+.transition-10s{transition: 10s !important};
+.transition-11s{transition: 11s !important};
+.transition-12s{transition: 12s !important};
+.transition-13s{transition: 13s !important};
+.transition-14s{transition: 14s !important};
+.transition-15s{transition: 15s !important};
+.transition-16s{transition: 16s !important};
+.transition-17s{transition: 17s !important};
+.transition-18s{transition: 18s !important};
+.transition-19s{transition: 19s !important};
+.transition-20s{transition: 20s !important};
+.transition-21s{transition: 21s !important};
+.transition-22s{transition: 22s !important};
+.transition-23s{transition: 23s !important};
+.transition-24s{transition: 24s !important};
+.transition-25s{transition: 25s !important};
+
+/* Transition Delay */
+.transition-delay-1s{transition-delay:1s !important;}
+.transition-delay-2s{transition-delay:2s !important;}
+.transition-delay-3s{transition-delay:3s !important;}
+.transition-delay-4s{transition-delay:4s !important;}
+.transition-delay-5s{transition-delay:5s !important;}
+.transition-delay-6s{transition-delay:6s !important;}
+.transition-delay-7s{transition-delay:7s !important;}
+.transition-delay-8s{transition-delay:8s !important;}
+.transition-delay-9s{transition-delay:9s !important;}
+.transition-delay-10s{transition-delay:10s !important;}
+.transition-delay-11s{transition-delay:11s !important;}
+.transition-delay-12s{transition-delay:12s !important;}
+.transition-delay-13s{transition-delay:13s !important;}
+.transition-delay-14s{transition-delay:14s !important;}
+.transition-delay-15s{transition-delay:15s !important;}
+.transition-delay-16s{transition-delay:16s !important;}
+.transition-delay-17s{transition-delay:17s !important;}
+.transition-delay-18s{transition-delay:18s !important;}
+.transition-delay-19s{transition-delay:19s !important;}
+.transition-delay-20s{transition-delay:20s !important;}
+.transition-delay-21s{transition-delay:21s !important;}
+.transition-delay-22s{transition-delay:22s !important;}
+.transition-delay-23s{transition-delay:23s !important;}
+.transition-delay-24s{transition-delay:24s !important;}
+.transition-delay-25s{transition-delay:25s !important;}
+
+/* Transition Duration */
+.transition-duration-1s{transition-duration:1s !important;}
+.transition-duration-2s{transition-duration:2s !important;}
+.transition-duration-3s{transition-duration:3s !important;}
+.transition-duration-4s{transition-duration:4s !important;}
+.transition-duration-5s{transition-duration:5s !important;}
+.transition-duration-6s{transition-duration:6s !important;}
+.transition-duration-7s{transition-duration:7s !important;}
+.transition-duration-8s{transition-duration:8s !important;}
+.transition-duration-9s{transition-duration:9s !important;}
+.transition-duration-10s{transition-duration:10s !important;}
+.transition-duration-11s{transition-duration:11s !important;}
+.transition-duration-12s{transition-duration:12s !important;}
+.transition-duration-13s{transition-duration:13s !important;}
+.transition-duration-14s{transition-duration:14s !important;}
+.transition-duration-15s{transition-duration:15s !important;}
+.transition-duration-16s{transition-duration:16s !important;}
+.transition-duration-17s{transition-duration:17s !important;}
+.transition-duration-18s{transition-duration:18s !important;}
+.transition-duration-19s{transition-duration:19s !important;}
+.transition-duration-20s{transition-duration:20s !important;}
+.transition-duration-21s{transition-duration:21s !important;}
+.transition-duration-22s{transition-duration:22s !important;}
+.transition-duration-23s{transition-duration:23s !important;}
+.transition-duration-24s{transition-duration:24s !important;}
+.transition-duration-25s{transition-duration:25s !important;}

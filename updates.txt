@@ -1,7 +1,6 @@
-Sybrenium@1.1.1 Updates
+Sybrenium@2.0.0 Updates
 
 Added:
-1. Font-Family: "OpenSans","Pacifico"
-
-Deprecated:
-- NA
+1. animations : blink, fadeIn and fadeOut, bounce.
+2. moved  center and center-all to alignment.
+3. Added New Fonts, Montez & Aloevera.

@@ -1,6 +1,6 @@
 {
   "name": "sybrenium",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Sketching the Web is now Manageable, and Straightforward to Level the Design.",
   "main": "dist/css/main.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/Syber-Lab/Sybrenium/issues"
   },
-  "homepage": "https://github.com/Syber-Lab/Sybrenium#readme",
+  "homepage": "https://sybrenium-classic.syberstar.com/",
   "dependencies": {
 
   }

@@ -20,25 +20,24 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 
 ### CDN:
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.1.1/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.0.0/dist/css/main.css">
 ```
 
 ### Table of contents
 - [Quick start](#quick-start)
 - [Stub code](#stub-code)
 - [What's included](#whats-included)
-- [Creator](#creator)
-<!-- - [Bugs and feature requests](#bugs-and-feature-requests) -->
+- [Bugs and feature requests](#bugs-and-feature-requests)
 
 ### Quick start
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v1.1.1.zip)
+- [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v2.0.0.zip)
 - Clone the repo: `git clone https://github.com/Syber-Lab/Sybrenium.git`
 - Install with [npm](https://www.npmjs.com/): `npm install Sybrenium`
 - Install with [yarn](https://wwwyarnpkg.com) `yarn add sybrenium`
 
-<!-- Read the [Getting started page](https://sybrenium.syberstar.com/) for information on the framework contents, templates, examples, and more. -->
+Read the [Getting started page](https://sybrenium-classic.syberstar.com/) for information on the framework contents, examples, and more.
 
 ### Stub code
 ```html
@@ -51,7 +50,7 @@ Several quick start options are available:
   <title>Sybrenium</title>
 
   <!-- links -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@1.1.1/dist/css/main.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.0.0/dist/css/main.css">
   <!-- Other css links -->
 
 </head>
@@ -60,17 +59,16 @@ Several quick start options are available:
   <!-- sample code -->
 
   <div class="center"> <!-- Center the div element -->
-    <h1 class="italic">Hello User!</h1> <!-- italicize the h1 -->
-    <h1 class="underline">Hello User!</h1> <!-- underlining the h1 -->
-    <h1 class="green">Hello User!</h1> <!-- adding color green to h1 -->
-    <h1 class="Pacifico">Hello User!</h1> <!-- adding font-style to h1 -->
+    <h1 class="italic">Italic with blinking Asterisk <sup class="red blink">*</sup></h1> <!-- italicize the h1 -->
+    <h1 class="underline">Underlined Sentence or word</h1> <!-- underlining the h1 -->
+    <h1 class="green">Text Color Green</h1> <!-- adding color green to h1 -->
+    <h1 class="Montez fadeIn">font style Montez</h1> <!-- adding font-style to h1 -->
   </div>
 
   <!-- End of sample code -->
 
   <!-- Script tags -->
   <!-- User Defined Scripts / Other Scripts below -->
-  <script src="ExternalJsFile.js" charset="utf-8"></script>
 </body>
 </html>
 ```
@@ -82,29 +80,21 @@ Within the download you'll find the following directories and files, logically g
 ```
 Sybrenium/
 └── dist/
-    ├── css/
-    │   ├── fonts/
-    │   ├── alignments.css
-    │   ├── buttons.css
-    │   ├── cards.css
-    │   ├── colors.css
-    │   ├── font-family.css
-    │   ├── hexcolors.css
-    │   ├── main.css
-    │   ├── size.css
-    │   └── sybrenium.css
-    └── js/
-        └── main.js
+    └── css/
+        ├── animations/
+        ├── fonts/
+        ├── alignments.css
+        ├── buttons.css
+        ├── cards.css
+        ├── colors.css
+        ├── font-family.css
+        ├── hexcolors.css
+        ├── main.css
+        ├── size.css
+        └── sybrenium.css
+
 ```
 
-<!-- ## Bugs and feature requests
+### Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/Syber-Lab/Sybrenium/blob/main/.github/CONTRIBUTING.md) (Yet to Create) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Syber-Lab/Sybrenium/issues/new). -->
-
-### Creator
-
-**Mohamed Yaseen Sheriff S**
-
-- <https://twitter.com/yaseen_sheriff>
-- <https://www.linkedin.com/in/yaseen59/>
-- <https://github.com/Yaseen549>
+Have a bug or a feature request? Please first search for existing and closed [issues](https://github.com/Syber-Lab/Sybrenium/issues). If your problem or idea is not addressed yet, [please open a new issue](https://github.com/Syber-Lab/Sybrenium/issues/new).

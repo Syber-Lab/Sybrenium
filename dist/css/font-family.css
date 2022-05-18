@@ -1,17 +1,21 @@
-.Pacifico{font-family: "Pacifico";}
-.Roboto{font-family: "Roboto";}
-.OpenSans{ font-family: "Open Sans";}
-.Lato{font-family: "Lato";}
+.Aloevera{font-family: "Aloevera"}
 .Comforter{font-family: 'Comforter';}
-.Outfit{font-family: "Outfit";}
 .DancingScript{font-family: "Dancing Script";}
 .Fredoka{ font-family: "Fredoka";}
+.Lato{font-family: "Lato";}
+.Montez{font-family: "Montez";}
+.OpenSans{ font-family: "Open Sans";}
+.Outfit{font-family: "Outfit";}
+.Pacifico{font-family: "Pacifico";}
+.Roboto{font-family: "Roboto";}
 
-@font-face{font-family: 'Pacifico';src: url('fonts/family/Pacifico-Regular.ttf');}
-@font-face{font-family: 'Roboto';src: url('fonts/family/Lato-Regular.ttf');}
-@font-face{font-family: 'Open Sans';src: url('fonts/family/OpenSans-VariableFont_wdth,wght.ttf');}
-@font-face{font-family: 'Lato';src: url('fonts/family/Roboto-Regular.ttf');}
+@font-face{font-family: 'Aloevera';src: url('fonts/family/Aloevera-OVoWO.ttf');}
 @font-face{font-family: 'Comforter';src: url('fonts/family/Comforter-Regular.ttf');}
-@font-face{font-family: 'Outfit';src: url('fonts/family/Outfit-Regular.ttf');}
 @font-face{font-family: 'Dancing Script';src: url('fonts/family/DancingScript-Regular.ttf');}
 @font-face{font-family: 'Fredoka';src: url('fonts/family/Fredoka-VariableFont_wdth,wght.ttf');}
+@font-face{font-family: 'Lato';src: url('fonts/family/Lato-Regular.ttf');}
+@font-face{font-family: 'Montez';src: url('fonts/family/Montez-Regular.ttf');}
+@font-face{font-family: 'Open Sans';src: url('fonts/family/OpenSans-VariableFont_wdth,wght.ttf');}
+@font-face{font-family: 'Outfit';src: url('fonts/family/Outfit-Regular.ttf');}
+@font-face{font-family: 'Pacifico';src: url('fonts/family/Pacifico-Regular.ttf');}
+@font-face{font-family: 'Roboto';src: url('fonts/family/Roboto-Regular.ttf');}

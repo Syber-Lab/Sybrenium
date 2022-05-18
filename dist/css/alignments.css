@@ -3,6 +3,7 @@
 .left{float:left;}
 .none{float:none;}
 .inherit{float:inherit;}
+.center{text-align: center;}
 /* .bottom{bottom:0px;} */
 
 .flex{display: flex;flex-wrap: wrap;}

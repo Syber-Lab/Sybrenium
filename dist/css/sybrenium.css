@@ -63,13 +63,9 @@
 /* .mix-border { border: dotted dashed solid double;} */
 .mix-border{border-style: dotted dashed solid double;}
 
-.round-border-5 {
-  border-radius: 5px;
-}
+.round-border-5 {border-radius: 5px;}
 
-.round-border-25 {
-  border-radius: 25px;
-}
+.round-border-25 {border-radius: 25px;}
 
 /* short Line Breaks */
 .dotted-linebreak{
@@ -143,8 +139,6 @@
 .overline{text-decoration: overline;}
 .strikeout{text-decoration: line-through;}
 .ruled{text-decoration: underline overline;}
-.center{text-align: center;}
-.center-all{align-items: center;text-align: center;}
 
 /* Font styles */
 .transparent{filter: drop-shadow(0.1rem 0.1rem 0.1rem);}

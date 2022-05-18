@@ -1,0 +1,34 @@
+@import "timers.css";
+
+@-webkit-keyframes fadeIn { 0% {opacity: 0;} 100% {opacity: 1;}}
+@keyframes fadeIn { 0% {opacity: 0;} 100% {opacity: 1;}}
+
+.fadeIn {
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+  animation-duration: 3s;
+}
+
+@-webkit-keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0; }}
+@keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0;}}
+
+.fadeOut {
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-name: fadeOut;
+  animation-name: fadeOut;
+  animation-duration: 3s;
+}
+
+@keyframes bounce {100% {top: -20px;}}
+.bounce {
+  position: relative; top: 20px;
+  animation: bounce .3s ease infinite alternate;
+}
+
+@keyframes blink { 50% {opacity: 0;}}
+.blink { animation: blink 1s linear infinite; }
+
+
