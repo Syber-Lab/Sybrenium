@@ -1,7 +1,7 @@
+@import "animations/animations.css";
 @import 'font-family.css';
 
 @import 'alignments.css';
-@import 'buttons.css';
 @import 'cards.css';
 @import 'colors.css';
 @import 'hexcolors.css';
@@ -9,7 +9,4 @@
 @import 'size.css';
 @import 'sybrenium.css';
 
-@import "animations/animations.css";
-
-/* Deprecated */
-/* @import 'tags.css'; */
+@import 'tags.css';

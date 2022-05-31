@@ -1,0 +1,32 @@
+/* tags */
+.qm::before, .qm::after{content:"\0022"}
+
+.braces::before{content: "\0028"}
+.braces::after{content: "\0029"}
+
+.hash::before{content:"\0023"}
+.dol::before{content:"\0024"}
+
+.apos::before, .apos::after{content:"\0027"}
+
+.sqb::before{content:"\005b"}
+.sqb::after{content:"\005d"}
+
+.curlb::before{content:"\007b"}
+.curlb::after{content:"\007d"}
+
+.deg::after{content: "\00b0"}
+.que::after{content: "\003f"}
+.ep::after{content: "!"}
+.percent::after{content: "\0025"}
+/* reg::after{content: "\00ae";position: relative; top: -05em;} */
+.mono::after, .supscrpt1::after {content: "\00b9"}
+.square::after, .supscrpt2::after {content: "\00b2"}
+.cube::after, .supscrpt3::after {content: "\00b3"}
+
+/* one-qu::after{content: "\00bc";position: relative; top: -05em;}
+one-ha::after{content: "\00bd";position: relative; top: -05em;}
+thr-qu::after{content: "\00be";position: relative; top: -05em;} */
+
+cpyrt::before{content: "\00a9"}
+cpyrt_::before{content: "\00a9  "}

@@ -2,7 +2,6 @@
 
 @-webkit-keyframes fadeIn { 0% {opacity: 0;} 100% {opacity: 1;}}
 @keyframes fadeIn { 0% {opacity: 0;} 100% {opacity: 1;}}
-
 .fadeIn {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
@@ -13,7 +12,6 @@
 
 @-webkit-keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0; }}
 @keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0;}}
-
 .fadeOut {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
@@ -29,6 +27,7 @@
 }
 
 @keyframes blink { 50% {opacity: 0;}}
-.blink { animation: blink 1s linear infinite; }
+.blink { animation: blink .3s linear 2;}
+.flash { animation: blink 1s linear infinite; }
 
 

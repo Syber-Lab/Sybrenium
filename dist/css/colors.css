@@ -1,10 +1,12 @@
-/* ----- Colors -----*/
+/* ----- 15 Colors -----*/
 .red {color: red;}
 .green {color: green;}
 .yellow {color: yellow;}
 .blue {color: blue;}
 .black {color: black;}
 .white {color: white;}
+.pink{color: pink;}
+.darkpink{color:#E75480;}
 .violet {color: #EE82EE;}
 .orchid {color: #DA70D6;}
 .silver {color: #C0C0C0;}
@@ -46,6 +48,8 @@
 .bg-blue {background-color: blue;}
 .bg-black {background-color: black;}
 .bg-white {background-color: white;}
+.bg-pink{background-color: pink;}
+.bg-darkpink{background-color:#E75480;}
 .bg-violet {background-color: #EE82EE;}
 .bg-orchid {background-color: #DA70D6;}
 .bg-silver {background-color: #C0C0C0;}
@@ -56,16 +60,18 @@
 
 /* border colors */
 
-.border-red {border-color: red !important;}
-.border-green {border-color: green !important;}
-.border-yellow {border-color: yellow !important;}
-.border-blue {border-color: blue !important;}
-.border-black {border-color: black !important;}
-.border-white {border-color: white !important;}
-.border-violet {border-color: #EE82EE !important;}
-.border-orchid {border-color: #DA70D6 !important;}
-.border-silver {border-color: #C0C0C0 !important;}
-.border-gold {border-color: #FFD700 !important;}
-.border-maroon {border-color: #800000 !important;}
-.border-magenta {border-color: #FF00FF !important;}
-.border-grey{border-color: #808080 !important;}
+.bdr-red {border-color: red !important;}
+.bdr-green {border-color: green !important;}
+.bdr-yellow {border-color: yellow !important;}
+.bdr-blue {border-color: blue !important;}
+.bdr-black {border-color: black !important;}
+.bdr-white {border-color: white !important;}
+.bdr-pink{border-color: pink !important;}
+.bdr-darkpink{border-color:#E75480 !important;}
+.bdr-violet {border-color: #EE82EE !important;}
+.bdr-orchid {border-color: #DA70D6 !important;}
+.bdr-silver {border-color: #C0C0C0 !important;}
+.bdr-gold {border-color: #FFD700 !important;}
+.bdr-maroon {border-color: #800000 !important;}
+.bdr-magenta {border-color: #FF00FF !important;}
+.bdr-grey{border-color: #808080 !important;}

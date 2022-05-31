@@ -1,16 +1,16 @@
 /*  Cards  */
 
-.card1{
+.card0{
+  /* display: flex; */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 0.75rem;
   width: -moz-fit-content;
   width: fit-content;
-  /* margin: 20.5px; */
-  /* transition: 0.3s; */
 }
 
-.card2{
+.card1{
+  /* display: flex; */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 1.75rem;
@@ -18,10 +18,20 @@
   width: fit-content;
 }
 
-.card3{
+.card2{
+  /* display: flex; */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 2.75rem;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.card3{
+  /* display: flex; */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 3.75rem;
   width: -moz-fit-content;
   width: fit-content;
 }
@@ -32,9 +42,6 @@
   padding: 0.75rem;
   text-align: center;
   align-items: center;
-  /* position:absolute; */
-  /* top:50px;
-  left:10px; */
   width:200px;
   height:200px;
   cursor: grab;
@@ -43,26 +50,19 @@
 .quote-card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-
-.nav-card{
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  /* border-radius: 0 0 5px 5px; */
-  padding: 0.75rem;
-  /* transition: 0.3s; */
-}
+.quote-author{float: right;font-weight: bold;}
+.quote-author::before{content: "- "}
 
 .card-hover {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
-  padding: 0.75rem;
+  padding: 1.75rem;
   width: -moz-fit-content;
   width: fit-content;
-  /* margin: 20.5px; */
-  /* transition: 0.3s; */
 }
 
 .card-hover:hover {
-  box-shadow: 0 5px 10px 0;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
 }
 
 /* .draag{

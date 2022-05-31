@@ -20,7 +20,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 
 ### CDN:
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.0.0/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.1.0/dist/css/main.css">
 ```
 
 ### Table of contents
@@ -32,7 +32,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 ### Quick start
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v2.0.0.zip)
+- [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v2.1.0.zip)
 - Clone the repo: `git clone https://github.com/Syber-Lab/Sybrenium.git`
 - Install with [npm](https://www.npmjs.com/): `npm install Sybrenium`
 - Install with [yarn](https://wwwyarnpkg.com) `yarn add sybrenium`
@@ -50,7 +50,7 @@ Read the [Getting started page](https://sybrenium-classic.syberstar.com/) for in
   <title>Sybrenium</title>
 
   <!-- links -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.0.0/dist/css/main.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.1.0/dist/css/main.css">
   <!-- Other css links -->
 
 </head>
@@ -82,16 +82,19 @@ Sybrenium/
 └── dist/
     └── css/
         ├── animations/
+        │     ├── animations.css
+        │     └── timers.css
         ├── fonts/
         ├── alignments.css
-        ├── buttons.css
         ├── cards.css
+        ├── char-entities.css
         ├── colors.css
         ├── font-family.css
         ├── hexcolors.css
         ├── main.css
         ├── size.css
-        └── sybrenium.css
+        ├── sybrenium.css
+        └── tags.css
 
 ```
 
