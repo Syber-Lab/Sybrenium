@@ -1,21 +1,17 @@
-.Aloevera{font-family: "Aloevera"}
-.Comforter{font-family: 'Comforter';}
-.DancingScript{font-family: "Dancing Script";}
-.Fredoka{ font-family: "Fredoka";}
-.Lato{font-family: "Lato";}
-.Montez{font-family: "Montez";}
-.OpenSans{ font-family: "Open Sans";}
-.Outfit{font-family: "Outfit";}
-.Pacifico{font-family: "Pacifico";}
-.Roboto{font-family: "Roboto";}
+@import "URLs.css";
 
+.Aloevera{font-family: "Aloevera", sans-serif;}
 @font-face{font-family: 'Aloevera';src: url('fonts/family/Aloevera-OVoWO.ttf');}
-@font-face{font-family: 'Comforter';src: url('fonts/family/Comforter-Regular.ttf');}
-@font-face{font-family: 'Dancing Script';src: url('fonts/family/DancingScript-Regular.ttf');}
-@font-face{font-family: 'Fredoka';src: url('fonts/family/Fredoka-VariableFont_wdth,wght.ttf');}
-@font-face{font-family: 'Lato';src: url('fonts/family/Lato-Regular.ttf');}
-@font-face{font-family: 'Montez';src: url('fonts/family/Montez-Regular.ttf');}
-@font-face{font-family: 'Open Sans';src: url('fonts/family/OpenSans-VariableFont_wdth,wght.ttf');}
-@font-face{font-family: 'Outfit';src: url('fonts/family/Outfit-Regular.ttf');}
-@font-face{font-family: 'Pacifico';src: url('fonts/family/Pacifico-Regular.ttf');}
-@font-face{font-family: 'Roboto';src: url('fonts/family/Roboto-Regular.ttf');}
+
+.Comforter{font-family: 'Comforter', cursive;}
+
+.Fredoka{font-family: 'Fredoka', sans-serif;}.Lato{font-family: 'Lato', sans-serif;}.OpenSans{font-family: 'Open Sans', sans-serif;}.Pacifico{font-family: 'Pacifico', cursive;}
+.DancingScript{font-family: 'Dancing Script', cursive;}.Montez{font-family: 'Montez', cursive;}.Outfit{font-family: 'Outfit', sans-serif;}.Roboto{font-family: 'Roboto', sans-serif;}
+.Oswald{font-family: 'Oswald', sans-serif;}.Poppins{font-family: 'Poppins', sans-serif;}.Raleway{font-family: 'Raleway', sans-serif;}.Ubuntu{font-family: 'Ubuntu', sans-serif;}
+.Barlow{font-family: 'Barlow', sans-serif;}.Mukta{font-family: 'Mukta', sans-serif;}.PTSans{font-family: 'PT Sans', sans-serif;}.Rubik{font-family: 'Rubik', sans-serif;}
+
+
+
+
+
+

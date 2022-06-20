@@ -1,12 +1,16 @@
 @import "animations/animations.css";
-@import 'font-family.css';
 
 @import 'alignments.css';
 @import 'cards.css';
+@import 'char-entities.css';
 @import 'colors.css';
+@import 'font-family.css';
 @import 'hexcolors.css';
 
+@import "morphs.css";
 @import 'size.css';
 @import 'sybrenium.css';
 
-@import 'tags.css';
+
+/* Deprecated */
+/* @import 'tags.css'; */

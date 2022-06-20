@@ -7,10 +7,7 @@
 }
 
 /* ----- Main Class ----- */
-.block {
-  padding: 0.75rem;
-  margin: auto;
-}
+.block {padding: 0.75rem;margin: auto;}
 
 /* display */
 .d-flex{display: flex;}
@@ -31,10 +28,11 @@
 .d-table-caption{display: table-caption;}
 .d-table-cell{display: table-cell;}
 .d-table-row{display: table-row;}
-.d-table-row-group{display: table-row-group;}
-.d-table-column{display: table-column;}
-.d-table-column-group{display: table-column-group;}
-.d-table-header-group{display: table-header-group;}
+.d-table-row-grp{display: table-row-group;}
+.d-table-col{display: table-column;}
+.d-table-col-grp{display: table-column-group;}
+.d-table-hd-grp{display: table-header-group;}
+.d-table-ft-grp{display: table-footer-group;}
 .d-inherit{display: inherit;}
 
 /* Border classes */
@@ -45,34 +43,42 @@
 .bdr-dotted-xs {border: dotted 2px;}
 .bdr-dotted-sm {border: dotted 4.5px;}
 .bdr-dotted-lg {border: dotted 7px;}
+.bdr-dotted-xl {border: dotted 9.5px;}
 .bdr-dashed {border: dashed 3px;}
 .bdr-dashed-xs {border: dashed 2px;}
 .bdr-dashed-sm {border: dashed 4.5px;}
 .bdr-dashed-lg {border: dashed 7px;}
+.bdr-dashed-xl {border: dashed 9.5px;}
 .bdr-solid {border: solid 3px;}
 .bdr-solid-xs {border: solid 2px;}
 .bdr-solid-sm {border: solid 4.5px;}
 .bdr-solid-lg {border: solid 7px;}
+.bdr-solid-xl {border: solid 9.5px;}
 .bdr-double {border: double 3px;}
 .bdr-double-xs {border: double 2px;}
 .bdr-double-sm {border: double 4.5px;}
 .bdr-double-lg {border: double 7px;}
+.bdr-double-xl {border: double 9.5px;}
 .bdr-groove {border: groove 3px;}
 .bdr-groove-xs {border: groove 2px;}
 .bdr-groove-sm {border: groove 4.5px;}
 .bdr-groove-lg {border: groove 7px;}
+.bdr-groove-xl {border: groove 9.5px;}
 .bdr-ridge {border: ridge 3px;}
 .bdr-ridge-xs {border: ridge 2px;}
 .bdr-ridge-sm {border: ridge 4.5px;}
 .bdr-ridge-lg {border: ridge 7px;}
+.bdr-ridge-xl {border: ridge 9.5px;}
 .bdr-inset {border: inset 3px;}
 .bdr-inset-xs {border: inset 2px;}
 .bdr-inset-sm {border: inset 4.5px;}
 .bdr-inset-lg {border: inset 7px;}
+.bdr-inset-xl {border: inset 9.5px;}
 .bdr-outset {border: outset 3px;}
 .bdr-outset-xs {border: outset 2px;}
 .bdr-outset-sm {border: outset 4.5px;}
 .bdr-outset-lg {border: outset 7px;}
+.bdr-outset-xl {border: outset 9.5px;}
 .bdr-none { border: none;}
 .bdr-hidden { border: hidden;}
 
@@ -84,35 +90,35 @@
 .round-bdr-25 {border-radius: 25px;}
 
 /* short Line Breaks */
-.dotted-linebreak{
+.dotted-lb{
 	border: dotted 4px;
 	border-bottom: none;
  	width: 4%;
  	margin: 50px auto;
 }
 
-.dashed-linebreak{
+.dashed-lb{
 	border: dashed 4px;
 	border-bottom: none;
  	width: 4%;
  	margin: 50px auto;
 }
 
-.solid-linebreak{
+.solid-lb{
 	border: solid 4px;
 	border-bottom: none;
  	width: 4%;
  	margin: 50px auto;
 }
 
-.double-linebreak{
+.double-lb{
 	border: double 4px;
 	border-bottom: none;
  	width: 4%;
  	margin: 50px auto;
 }
 
-.groove-linebreak{
+.groove-lb{
 	border: groove 4px;
 	border-bottom: none;
   border-right: none;
@@ -121,7 +127,7 @@
  	margin: 50px auto;
 }
 
-.ridge-linebreak{
+.ridge-lb{
 	border: ridge 4px;
 	border-bottom: none;
   border-right: none;
@@ -130,7 +136,7 @@
  	margin: 50px auto;
 }
 
-.inset-linebreak{
+.inset-lb{
 	border: inset 4px;
 	border-bottom: none;
   border-right: none;
@@ -139,7 +145,7 @@
  	margin: 50px auto;
 }
 
-.outset-linebreak{
+.outset-lb{
 	border: outset 4px;
 	border-bottom: none;
   border-right: none;
@@ -157,29 +163,12 @@
 .ruled{text-decoration: underline overline;}
 
 /* Font styles */
-.transparent{filter: drop-shadow(0.1rem 0.1rem 0.1rem);}
-
+.transparent{background-color: transparent;}
 .text-shadow{text-shadow: 1px 1px 1px;}
-
 .glow{filter: drop-shadow(0rem 0rem 0.4rem);}
-
 .shadow{filter: drop-shadow(0.1rem 0.1rem 0.1rem #888888);}
+.box-shadow{box-shadow: 0.5rem 0.5rem 0.5rem #888888;}
 
-.box-shadow{box-shadow: 0.5rem 0.5rem 0.5rem #888888}
-
-/* Upcoming features */
-
-/* .vertical-upright{
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-}
-
-.vertical-downright{
-  writing-mode: vertical-lr;
-  text-orientation: downright;
-}
-
-.vertical-upleft{
-  writing-mode: vertical-rl;
-  text-orientation: upleft;
-} */
+.uppercase{text-transform: uppercase;}
+.lowercase{text-transform: lowercase;}
+.capitalize{text-transform: capitalize;}

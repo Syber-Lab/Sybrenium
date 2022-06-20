@@ -28,5 +28,5 @@
 one-ha::after{content: "\00bd";position: relative; top: -05em;}
 thr-qu::after{content: "\00be";position: relative; top: -05em;} */
 
-cpyrt::before{content: "\00a9"}
-cpyrt_::before{content: "\00a9  "}
+.cpyrt::before{content: "\00a9"}
+.cpyrt2::before{content: "\00a9  "}

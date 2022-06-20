@@ -1,13 +1,13 @@
-Sybrenium@2.1.0 Updates
+Sybrenium@2.5.0 Updates
 
 Added:
-1. New HTML Tags for symbol installations + char-entities.css
-2. Updated Documentation https://sybrenium.herokuapp.com
-3. colors pink & dark pink
-4. new display properties
-5. Cards: card0,card1,card2,card3
-6. "border" shortened to "bdr"
-7. separated blink to flash, and blink two times
+1.char-entities.css for ::before & ::after symbols
+2. "_BGx" to "bg-" in hexcolors
+3. fontistics: uppercase, lowercase, capitalize
+4. shortcut classes
+5. Glass morphs, glass1 & glass2
+6. ems added eg: _2em
+7. URLs.css for fonts links
 
 Deprecated:
-1. buttons.css
+1. tags.css

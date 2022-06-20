@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://syberstar.netlify.com/">
+  <a href="https://syberstar.com/">
     <img src="https://github.com/Syber-Lab/Sybrenium/blob/main/imgs/Sybrenium.png" alt="Sybrenium logo" width="165" height="165">
   </a>
 </p>
@@ -10,7 +10,7 @@
 Sketching the Web is now Manageable, and Straightforward to Level the Design.
   <br>
   <!-- <a href="https://sybrenium.syberstar.com/"><strong>Explore Sybrenium docs »</strong></a> -->
-  <a href="https://choose-sybrenium-docs.syberstar.com/"><strong>Explore Sybrenium docs »</strong></a>
+  <a href="https://sybrenium.herokuapp.com/"><strong>Explore Sybrenium docs »</strong></a>
   <br>
   <br>
   <a href="https://github.com/Syber-Lab/Sybrenium/issues/new?assignees=&labels=bug&template=bug_report.yml">Report bug</a>
@@ -37,7 +37,7 @@ Several quick start options are available:
 - Install with [npm](https://www.npmjs.com/): `npm install Sybrenium`
 - Install with [yarn](https://wwwyarnpkg.com) `yarn add sybrenium`
 
-Read the [Getting started page](https://sybrenium-classic.syberstar.com/) for information on the framework contents, examples, and more.
+Read the [Getting started page](https://sybrenium.herokuapp.com/) for information on the framework contents, examples, and more.
 
 ### Stub code
 ```html

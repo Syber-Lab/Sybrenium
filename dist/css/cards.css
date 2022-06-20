@@ -47,9 +47,7 @@
   cursor: grab;
 }
 
-.quote-card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
+.quote-card:hover {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
 .quote-author{float: right;font-weight: bold;}
 .quote-author::before{content: "- "}
 
@@ -61,9 +59,7 @@
   width: fit-content;
 }
 
-.card-hover:hover {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
-}
+.card-hover:hover {box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);}
 
 /* .draag{
   position:absolute;

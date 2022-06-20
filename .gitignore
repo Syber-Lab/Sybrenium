@@ -19,7 +19,6 @@ Thumbs.db
 /bin
 /out
 /target
-/dist/js
 
 fixes.txt
 sybrenium-test.html
@@ -28,4 +27,7 @@ SybreniumDocs.docx
 decoration.css
 elements.css
 emojis.css
-URLs.css
+tags.css
+
+img.png
+img.jpg

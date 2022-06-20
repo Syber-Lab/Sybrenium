@@ -10,7 +10,7 @@
   animation-duration: 3s;
 }
 
-@-webkit-keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0; }}
+@-webkit-keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0;}}
 @keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0;}}
 .fadeOut {
   -webkit-animation-fill-mode: both;
@@ -21,13 +21,20 @@
 }
 
 @keyframes bounce {100% {top: -20px;}}
-.bounce {
-  position: relative; top: 20px;
-  animation: bounce .3s ease infinite alternate;
-}
+.bounce {position: relative; top: 20px;animation: bounce .3s ease infinite alternate;}
 
 @keyframes blink { 50% {opacity: 0;}}
 .blink { animation: blink .3s linear 2;}
-.flash { animation: blink 1s linear infinite; }
+.flash { animation: blink 1s linear infinite;}
 
+@-moz-keyframes spin {100% {-moz-transform: rotate(360deg);}}
+@-webkit-keyframes spin {100% {-webkit-transform: rotate(360deg);}}
+@keyframes spin {100% {-webkit-transform: rotate(360deg);transform:rotate(360deg);}}
+.spin{animation: spin 1s linear infinite;}
+.spin-fast{animation: spin .5s linear infinite;}
+.spin-slow{animation: spin 2s linear infinite;}
 
+@keyframes rotateY3d {100% {-webkit-transform: rotateY(360deg);transform:rotateY(360deg);}}
+.rotateY3d{animation: rotateY3d 1s linear infinite;}
+@keyframes rotateX3d {100% {-webkit-transform: rotateX(-360deg);transform:rotateX(360deg);}}
+.rotateX3d{animation: rotateX3d 1s linear infinite;}
