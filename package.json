@@ -1,6 +1,6 @@
 {
   "name": "sybrenium",
-  "version": "2.1.0",
+  "version": "2.5.0",
   "description": "Sketching the Web is now Manageable, and Straightforward to Level the Design.",
   "main": "dist/css/main.js",
   "scripts": {
