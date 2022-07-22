@@ -1,4 +1,3 @@
-/* tags */
 .qm::before, .qm::after{content:"\0022"}
 
 .braces::before{content: "\0028"}
@@ -23,10 +22,6 @@
 .mono::after, .supscrpt1::after {content: "\00b9"}
 .square::after, .supscrpt2::after {content: "\00b2"}
 .cube::after, .supscrpt3::after {content: "\00b3"}
-
-/* one-qu::after{content: "\00bc";position: relative; top: -05em;}
-one-ha::after{content: "\00bd";position: relative; top: -05em;}
-thr-qu::after{content: "\00be";position: relative; top: -05em;} */
 
 .cpyrt::before{content: "\00a9"}
 .cpyrt2::before{content: "\00a9  "}

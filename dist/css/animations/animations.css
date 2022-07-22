@@ -24,7 +24,8 @@
 .bounce {position: relative; top: 20px;animation: bounce .3s ease infinite alternate;}
 
 @keyframes blink { 50% {opacity: 0;}}
-.blink { animation: blink .3s linear 2;}
+.blink { animation: blink .3s linear 1;}
+.blink2 { animation: blink .3s linear 2;}
 .flash { animation: blink 1s linear infinite;}
 
 @-moz-keyframes spin {100% {-moz-transform: rotate(360deg);}}

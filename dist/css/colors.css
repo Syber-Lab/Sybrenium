@@ -1,5 +1,5 @@
 /* ----- 15 Colors -----*/
-.red {color: red;}.green {color: green;}.yellow {color: yellow;}.blue {color: blue;}.black {color: black;}.white {color: white;}.pink{color: pink;}.darkpink{color:#E75480;}.violet {color: #EE82EE;}.orchid {color: #DA70D6;}.silver {color: #C0C0C0;}.gold {color: #FFD700;}.maroon {color: #800000;}.magenta {color: #FF00FF;}.grey{color: #808080;}
+.red{color:red}.green{color:green}.yellow{color:yellow}.blue{color:blue}.black{color:black}.white{color:white}.pink{color:pink}.darkpink{color:#E75480}.violet{color:#EE82EE}.orchid{color:#DA70D6}.silver{color:#C0C0C0}.gold{color:#FFD700}.maroon{color:#800000}.magenta{color:#FF00FF}.grey{color:#808080}
 
 /* Use CamelCasing for unique colors */
 /* 13 Obscure colors based on "bestlife" https://bestlifeonline.com/obscure-colors/  */
@@ -9,12 +9,7 @@
 .lapisLazuli{color:#26619C}.quercitron{color:#E5B03D}.cochineal{color:#D70040}.dragonsBlood{color:#A8452F}.mummyBrown{color:#7b4125}.brazilwood{color:#95562A}.cadmiumYellow{color:#fff600}
 
 /* ----- background-colors -----*/
-.bg-red {background-color: red;}.bg-green {background-color: green;}.bg-yellow {background-color: yellow;}.bg-blue {background-color: blue;}.bg-black {background-color: black;}.bg-white {background-color: white;}.bg-pink{background-color: pink;}.bg-darkpink{background-color:#E75480;}.bg-violet {background-color: #EE82EE;}.bg-orchid {background-color: #DA70D6;}.bg-silver {background-color: #C0C0C0;}.bg-gold {background-color: #FFD700;}.bg-maroon {background-color: #800000;}.bg-magenta{background-color: #FF00FF;}.bg-grey{background-color: #808080;}
+.bg-red{background-color:red}.bg-green{background-color:green}.bg-yellow{background-color:yellow}.bg-blue{background-color:blue}.bg-black{background-color:black}.bg-white{background-color:white}.bg-pink{background-color:pink}.bg-darkpink{background-color:#E75480}.bg-violet{background-color:#EE82EE}.bg-orchid{background-color:#DA70D6}.bg-silver{background-color:#C0C0C0}.bg-gold{background-color:#FFD700}.bg-maroon{background-color:#800000}.bg-magenta{background-color:#FF00FF}.bg-grey{background-color:#808080}
 
 /* border colors */
-.bdr-red {border-color: red !important;}.bdr-green {border-color: green !important;}.bdr-yellow {border-color: yellow !important;}.bdr-blue {border-color: blue !important;}.bdr-black {border-color: black !important;}.bdr-white {border-color: white !important;}.bdr-pink{border-color: pink !important;}.bdr-darkpink{border-color:#E75480 !important;}.bdr-violet{border-color: #EE82EE !important;}.bdr-orchid {border-color: #DA70D6 !important;}
-.bdr-silver {border-color: #C0C0C0 !important;}
-.bdr-gold {border-color: #FFD700 !important;}
-.bdr-maroon {border-color: #800000 !important;}
-.bdr-magenta {border-color: #FF00FF !important;}
-.bdr-grey{border-color: #808080 !important;}
+.bdr-red{border-color:red !important}.bdr-green{border-color:green !important}.bdr-yellow{border-color:yellow !important}.bdr-blue{border-color:blue !important}.bdr-black{border-color:black !important}.bdr-white{border-color:white !important}.bdr-pink{border-color:pink !important}.bdr-darkpink{border-color:#E75480 !important}.bdr-violet{border-color:#EE82EE !important}.bdr-orchid{border-color:#DA70D6 !important}.bdr-silver{border-color:#C0C0C0 !important}.bdr-gold{border-color:#FFD700 !important}.bdr-maroon{border-color:#800000 !important}.bdr-magenta{border-color:#FF00FF !important}.bdr-grey{border-color:#808080 !important}
