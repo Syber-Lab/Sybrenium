@@ -1,7 +1,7 @@
 Sybrenium@2.5.0 Updates
 
 Added:
-1.char-entities.css for ::before & ::after symbols
+1. char-entities.css for ::before & ::after symbols
 2. "_BGx" to "bg-" in hexcolors
 3. fontistics: uppercase, lowercase, capitalize
 4. shortcut classes

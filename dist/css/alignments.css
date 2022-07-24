@@ -3,11 +3,11 @@
 .f-left{float:left;}
 .f-none{float:none;}
 .f-inherit{float:inherit;}
-.txt-center{text-align: center;}
+.text-center{text-align: center;}
 .center{text-align: center;}
 /* .bottom{bottom:0px;} */
 
-.flex{display: flex;flex-wrap: wrap;}
+.df-flex{display: flex;flex-wrap: wrap;}
 
 /*Align-Content*/
 .cont-center{align-content:center;}

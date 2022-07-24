@@ -1,7 +1,7 @@
 /*  Cards  */
 
 .card0{
-  /* display: flex; */
+  display: inline-block;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 0.75rem;
@@ -10,7 +10,7 @@
 }
 
 .card1{
-  /* display: flex; */
+  display: inline-block;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 1.75rem;
@@ -19,7 +19,7 @@
 }
 
 .card2{
-  /* display: flex; */
+  display: inline-block;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 2.75rem;
@@ -28,7 +28,7 @@
 }
 
 .card3{
-  /* display: flex; */
+  display: inline-block;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 3.75rem;
@@ -37,6 +37,7 @@
 }
 
 .quote-card{
+  display: inline-block;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   border-radius: 5px;
   padding: 0.75rem;
@@ -47,9 +48,9 @@
   cursor: grab;
 }
 
-.quote-card:hover {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
+.quote-card:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
 .quote-author{float: right;font-weight: bold;}
-.quote-author::before{content: "- "}
+.quote-author::before{content: "- By "}
 
 .card-hover {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -59,7 +60,7 @@
   width: fit-content;
 }
 
-.card-hover:hover {box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);}
+.card-hover:hover {box-shadow: 0 3px 6px 0 rgba(0,0,0,0.5);}
 
 /* .draag{
   position:absolute;

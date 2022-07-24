@@ -3,20 +3,16 @@
 @-webkit-keyframes fadeIn { 0% {opacity: 0;} 100% {opacity: 1;}}
 @keyframes fadeIn { 0% {opacity: 0;} 100% {opacity: 1;}}
 .fadeIn {
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
-  -webkit-animation-name: fadeIn;
-  animation-name: fadeIn;
+  -webkit-animation-fill-mode: both;animation-fill-mode: both;
+  -webkit-animation-name: fadeIn;animation-name: fadeIn;
   animation-duration: 3s;
 }
 
 @-webkit-keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0;}}
 @keyframes fadeOut {0%{opacity: 1;} 100% {opacity: 0;}}
 .fadeOut {
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
-  -webkit-animation-name: fadeOut;
-  animation-name: fadeOut;
+  -webkit-animation-fill-mode: both;animation-fill-mode: both;
+  -webkit-animation-name: fadeOut;animation-name: fadeOut;
   animation-duration: 3s;
 }
 
@@ -31,11 +27,11 @@
 @-moz-keyframes spin {100% {-moz-transform: rotate(360deg);}}
 @-webkit-keyframes spin {100% {-webkit-transform: rotate(360deg);}}
 @keyframes spin {100% {-webkit-transform: rotate(360deg);transform:rotate(360deg);}}
-.spin{animation: spin 1s linear infinite;}
-.spin-fast{animation: spin .5s linear infinite;}
-.spin-slow{animation: spin 2s linear infinite;}
+.spin{animation: spin 1s linear infinite; display: inline-block;}
+.spin-fast{animation: spin .5s linear infinite; display: inline-block;}
+.spin-slow{animation: spin 2s linear infinite; display: inline-block;}
 
 @keyframes rotateY3d {100% {-webkit-transform: rotateY(360deg);transform:rotateY(360deg);}}
-.rotateY3d{animation: rotateY3d 1s linear infinite;}
+.rotateY3d{animation: rotateY3d 1s linear infinite; display: inline-block;}
 @keyframes rotateX3d {100% {-webkit-transform: rotateX(-360deg);transform:rotateX(360deg);}}
-.rotateX3d{animation: rotateX3d 1s linear infinite;}
+.rotateX3d{animation: rotateX3d 1s linear infinite; display: inline-block;}

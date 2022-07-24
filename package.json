@@ -21,7 +21,5 @@
     "url": "https://github.com/Syber-Lab/Sybrenium/issues"
   },
   "homepage": "https://sybrenium.herokuapp.com/",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }

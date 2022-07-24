@@ -20,7 +20,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 
 ### CDN:
 ```
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.1.0/dist/css/main.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.5.0/dist/css/main.css">
 ```
 
 ### Table of contents
@@ -32,7 +32,7 @@ Sketching the Web is now Manageable, and Straightforward to Level the Design.
 ### Quick start
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v2.1.0.zip)
+- [Download the latest release](https://github.com/Syber-Lab/Sybrenium/archive/refs/tags/v2.5.0.zip)
 - Clone the repo: `git clone https://github.com/Syber-Lab/Sybrenium.git`
 - Install with [npm](https://www.npmjs.com/): `npm install Sybrenium`
 - Install with [yarn](https://wwwyarnpkg.com) `yarn add sybrenium`
@@ -50,7 +50,7 @@ Read the [Getting started page](https://sybrenium.herokuapp.com/) for informatio
   <title>Sybrenium</title>
 
   <!-- links -->
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.1.0/dist/css/main.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/sybrenium@2.5.0/dist/css/main.css">
   <!-- Other css links -->
 
 </head>
@@ -59,10 +59,10 @@ Read the [Getting started page](https://sybrenium.herokuapp.com/) for informatio
   <!-- sample code -->
 
   <div class="center"> <!-- Center the div element -->
-    <h1 class="italic">Italic with blinking Asterisk <sup class="red blink">*</sup></h1> <!-- italicize the h1 -->
+    <h1 class="italic">Italic with Flashing Asterisk <sup class="red flash">*</sup></h1> <!-- italicize the h1 -->
     <h1 class="underline">Underlined Sentence or word</h1> <!-- underlining the h1 -->
     <h1 class="green">Text Color Green</h1> <!-- adding color green to h1 -->
-    <h1 class="Montez fadeIn">font style Montez</h1> <!-- adding font-style to h1 -->
+    <h1 class="Montez fadeIn">font style Montez with fadeIn Animation</h1> <!-- adding font-style to h1 -->
   </div>
 
   <!-- End of sample code -->

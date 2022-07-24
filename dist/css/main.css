@@ -1,3 +1,4 @@
+@import 'URLs.css';
 @import "animations/animations.css";
 
 @import 'alignments.css';
@@ -10,7 +11,6 @@
 @import "morphs.css";
 @import 'size.css';
 @import 'sybrenium.css';
-@import 'URLs.css';
 
 
 /* Deprecated */

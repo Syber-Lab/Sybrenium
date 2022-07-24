@@ -89,11 +89,7 @@
 .round-bdr-15 {border-radius: 15px;}
 .round-bdr-20 {border-radius: 20px;}
 .round-bdr-25 {border-radius: 25px;}
-.round-bdr-30 {border-radius: 30px;}
-.round-bdr-35 {border-radius: 35px;}
-.round-bdr-40 {border-radius: 40px;}
-.round-bdr-45 {border-radius: 45px;}
-.round-bdr-50 {border-radius: 50px;}
+
 
 /* short Line Breaks */
 .dotted-lb{
@@ -161,7 +157,7 @@
 }
 
 /* Bold italic underline */
-.bold{font-weight: bolder;}
+.bold{font-weight: bold;}
 .italic{font-style: italic;}
 .underline{text-decoration: underline;}
 .overline{text-decoration: overline;}
@@ -172,10 +168,10 @@
 .transparent{background-color: transparent;}
 .visibile{visibility: visible;}
 .invisible{visibility: hidden;}
-.text-shadow{text-shadow: 1px 1px 1px;}
 .glow{filter: drop-shadow(0rem 0rem 0.4rem);}
 .shadow{filter: drop-shadow(0.1rem 0.1rem 0.1rem #888888);}
 .box-shadow{box-shadow: 0.5rem 0.5rem 0.5rem #888888;}
+.text-shadow{text-shadow: 1px 1px 1px;}
 
 .uppercase{text-transform: uppercase;}
 .lowercase{text-transform: lowercase;}
