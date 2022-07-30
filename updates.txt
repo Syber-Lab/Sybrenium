@@ -1,13 +1,7 @@
-Sybrenium@2.5.0 Updates
+Sybrenium@2.6.0 Updates
 
 Added:
-1. char-entities.css for ::before & ::after symbols
-2. "_BGx" to "bg-" in hexcolors
-3. fontistics: uppercase, lowercase, capitalize
-4. shortcut classes
-5. Glass morphs, glass1 & glass2
-6. ems added eg: _2em
-7. URLs.css for fonts links
+1. Renamed URLs.css to urls.css
+2. Added tooltips.css
 
 Deprecated:
-1. tags.css
