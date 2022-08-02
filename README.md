@@ -80,24 +80,26 @@ Within the download you'll find the following directories and files, logically g
 ```
 Sybrenium/
 └── dist/
-    └── css/
-        ├── animations/
-        │     ├── animations.css
-        │     └── timers.css
-        ├── fonts/
-        ├── alignments.css
-        ├── cards.css
-        ├── char-entities.css
-        ├── colors.css
-        ├── font-family.css
-        ├── hexcolors.css
-        ├── main.css
-        ├── morphs.css
-        ├── size.css
-        ├── sybrenium.css
-        ├── tooltips.css
-        └── urls.css
-
+    ├── css/
+    │   ├── animations/
+    │   │     ├── animations.css
+    │   │     └── timers.css
+    │   ├── fonts/
+    │   ├── alignments.css
+    │   ├── cards.css
+    │   ├── char-entities.css
+    │   ├── colors.css
+    │   ├── font-family.css
+    │   ├── hexcolors.css
+    │   ├── main.css
+    │   ├── morphs.css
+    │   ├── size.css
+    │   ├── sybrenium.css
+    │   ├── tooltips.css
+    │   └── urls.css
+    └── js/
+        └── main.js
+        
 ```
 
 ### Bugs and feature requests
